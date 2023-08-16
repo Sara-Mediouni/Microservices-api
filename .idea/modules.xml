@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Authentification/Authentification/Authentification.iml" filepath="$PROJECT_DIR$/Authentification/Authentification/Authentification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CorilusApp/CorilusApp.iml" filepath="$PROJECT_DIR$/CorilusApp/CorilusApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-api.iml" filepath="$PROJECT_DIR$/.idea/Microservices-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-api/gateway-api.iml" filepath="$PROJECT_DIR$/gateway-api/gateway-api.iml" />
+    </modules>
+  </component>
+</project>
